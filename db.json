@@ -109,6 +109,11 @@
                 "quantidade": 15,
                 "data_requisicao": "2024-08-20"
               },
+			  {
+                "codigo_produto": 1,
+                "quantidade": 15,
+                "data_requisicao": "2024-08-21"
+              },
               {
                 "codigo_produto": 2,
                 "quantidade": 30,
@@ -116,6 +121,21 @@
               },
               {
                 "codigo_produto": 3,
+                "quantidade": 25,
+                "data_requisicao": "2024-08-20"
+              },
+              {
+                "codigo_produto": 3,
+                "quantidade": 25,
+                "data_requisicao": "2024-08-10"
+              },
+              {
+                "codigo_produto": 10,
+                "quantidade": 25,
+                "data_requisicao": "2024-08-10"
+              },
+              {
+                "codigo_produto": 10,
                 "quantidade": 25,
                 "data_requisicao": "2024-08-20"
               }
