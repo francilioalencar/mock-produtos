@@ -1,0 +1,211 @@
+{
+    "posts": [
+        {
+            "produtos": [
+              {
+                "codigo": 1,
+                "descricao": "Caderno Espiral 100 folhas",
+                "situacao": "A"
+              },
+              {
+                "codigo": 2,
+                "descricao": "Caneta Esferográfica Azul",
+                "situacao": "A"
+              },
+              {
+                "codigo": 3,
+                "descricao": "Lápis Preto",
+                "situacao": "A"
+              },
+              {
+                "codigo": 4,
+                "descricao": "Borracha Branca",
+                "situacao": "A"
+              },
+              {
+                "codigo": 5,
+                "descricao": "Marca-texto Amarelo",
+                "situacao": "A"
+              },
+              {
+                "codigo": 6,
+                "descricao": "Grampeador",
+                "situacao": "A"
+              },
+              {
+                "codigo": 7,
+                "descricao": "Caixa de Clipes 28mm",
+                "situacao": "A"
+              },
+              {
+                "codigo": 8,
+                "descricao": "Papel Sulfite A4 500 folhas",
+                "situacao": "A"
+              },
+              {
+                "codigo": 9,
+                "descricao": "Fita Adesiva Transparente",
+                "situacao": "A"
+              },
+              {
+                "codigo": 10,
+                "descricao": "Tesoura de Papel",
+                "situacao": "A"
+              },
+              {
+                "codigo": 11,
+                "descricao": "Corretivo Líquido",
+                "situacao": "A"
+              },
+              {
+                "codigo": 12,
+                "descricao": "Post-it Amarelo",
+                "situacao": "A"
+              },
+              {
+                "codigo": 13,
+                "descricao": "Bloco de Anotações 100 folhas",
+                "situacao": "A"
+              },
+              {
+                "codigo": 14,
+                "descricao": "Envelope Branco A4",
+                "situacao": "A"
+              },
+              {
+                "codigo": 15,
+                "descricao": "Calculadora de Mesa",
+                "situacao": "A"
+              },
+              {
+                "codigo": 16,
+                "descricao": "Apontador de Lápis",
+                "situacao": "A"
+              },
+              {
+                "codigo": 17,
+                "descricao": "Pasta Suspensa",
+                "situacao": "A"
+              },
+              {
+                "codigo": 18,
+                "descricao": "Carimbo Automático",
+                "situacao": "A"
+              },
+              {
+                "codigo": 19,
+                "descricao": "Etiqueta Adesiva",
+                "situacao": "A"
+              },
+              {
+                "codigo": 20,
+                "descricao": "Dispenser de Fita Adesiva",
+                "situacao": "A"
+              }
+            ],
+            "requisicao": [
+              {
+                "codigo_produto": 1,
+                "quantidade": 15,
+                "data_requisicao": "2024-08-20"
+              },
+              {
+                "codigo_produto": 2,
+                "quantidade": 30,
+                "data_requisicao": "2024-08-20"
+              },
+              {
+                "codigo_produto": 3,
+                "quantidade": 25,
+                "data_requisicao": "2024-08-20"
+              }
+            ],
+            "saldo_estoque": [
+              {
+                "codigo_produto": 1,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 2,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 3,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 4,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 5,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 6,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 7,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 8,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 9,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 10,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 11,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 12,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 13,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 14,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 15,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 16,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 17,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 18,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 19,
+                "saldo": 100
+              },
+              {
+                "codigo_produto": 20,
+                "saldo": 100
+              }
+            ]
+          }
+          
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
